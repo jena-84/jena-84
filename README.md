@@ -1,16 +1,19 @@
-### Hi there 👋
+:woman_technologist: About Me :
+I'm a junior full stack developer... 
 
-<!--
-**jena-84/jena-84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate about learning and sharing my knowledge to help others, and I love challenging myself.I dedicated my life to study starting from finishing MSc in Computer Science from Coventry University then deep further into technology and designing websites. I graduated from intensive Software Development bootcamp with School of Code
 
-Here are some ideas to get you started:
+Moreover, I'm an 👩‍🎨 and my passion is painting and create a piece of art that shows how I have keen eyes on details, and this is one of the reasons that makes me a developer who writes lines of codes to create something beautiful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <h3 id="badges"> Contact me on   
+  <a href="https://www.linkedin.com/in/jena-zzubaydi/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ </h3>
+
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express 
